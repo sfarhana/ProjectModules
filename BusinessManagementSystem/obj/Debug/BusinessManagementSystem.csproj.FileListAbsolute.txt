@@ -1,0 +1,11 @@
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.exe.config
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.exe
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.pdb
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csprojAssemblyReference.cache
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.ProductCategoryUi.resources
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.Properties.Resources.resources
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csproj.GenerateResource.cache
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csproj.CoreCompileInputs.cache
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.exe
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.pdb
+D:\SEIP\Project 1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.CustomerUi.resources
